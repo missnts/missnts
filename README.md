@@ -8,8 +8,8 @@
   <h3> ❥ Technologies I Use:</h3>
   <img width="200" src="https://skillicons.dev/icons?i=html,css,javascript,git,vscode"/>
   <h3> ❥ Stats & Activity:</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=stnmilena&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&disable_animations=false&theme=graywhite&locale=en&hide_border=false&order=1" height="120" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=stnmilena&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=graywhite&hide_border=false&order=2" height="120" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=sntmilena&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&disable_animations=false&theme=graywhite&locale=en&hide_border=false&order=1" height="120" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sntmilena&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=graywhite&hide_border=false&order=2" height="120" alt="languages graph"  />
 </div>
 
 ###
